@@ -1,4 +1,5 @@
 let transactions = [];
+console.log("hit public")
 let myChart;
 
 fetch("/api/transaction")
